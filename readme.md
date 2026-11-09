@@ -1,6 +1,6 @@
-# 🏫 Recull d'Aplicacions Educatives — Escola Sant Salvador
+# 🏫 Recull d'Aplicacions Educatives
 
-Aquest repositori agrupa la col·lecció d'aplicacions web educatives creades per a l'alumnat d'Educació Primària de l'Escola Sant Salvador. Són eines interactives, gamificades i dissenyades amb tecnologies web modernes (HTML5, Tailwind CSS, JavaScript, Web Audio API i Canvas) per al treball a l'aula amb tauletes o Pantalla Digital Interactiva (PDI).
+Aquest repositori agrupa la col·lecció d'aplicacions web educatives creades per a l'alumnat d'Educació Primària. Són eines interactives, gamificades i dissenyades amb tecnologies web modernes (HTML5, Tailwind CSS, JavaScript, Web Audio API i Canvas) per al treball a l'aula amb tauletes o Pantalla Digital Interactiva (PDI).
 
 ## 📚 Catàleg d'Aplicacions
 
