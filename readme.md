@@ -20,6 +20,9 @@ Aquest repositori allotja el portal web d'accés ràpid a una col·lecció d'ein
 * **✖️ [Exàmen oral Taules de multiplicar](https://cromer23cat.github.io/matematiques/examenoraltaules/index.html)**
   App per pràcticar les taules de multiplicar a classe.
 
+* **🔺 [Piràmides numèriques](https://cromer23cat.github.io/matematiques/piramidesmatematiques/index.html)**
+  App per practicar el càlcul mental de sumes i restes (naturals i decimals) amb quatre nivells de dificultat, mode contrarellotge i classificació setmanal anònima.
+
 * **🎲 [Laboratori de l'Atzar](https://cromer23cat.github.io/matematiques/laboratoriatzar/index.html)**
   Simulador d'experiments aleatoris, probabilitats i gràfiques estadístiques en temps real orientat al Cicle Superior.
 
